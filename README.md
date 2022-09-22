@@ -2,6 +2,7 @@
 
 Analog and Digital clock with HTML, CSS and JavaScript
 
-# [See on Codepen](https://codepen.io/hicoders/pen/xxRJoYQ)
+## [Show clock](https://bbusse.github.io/clock)
+## [See on Codepen](https://codepen.io/hicoders/pen/xxRJoYQ)
 
 ![Preview](preview.png)
